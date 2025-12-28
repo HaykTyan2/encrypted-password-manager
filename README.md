@@ -119,8 +119,7 @@ Performs basic master password strength validation.
 
 --------------------------------------------------------------------------------------------------------
 
-### Installation / Process
-
+## Installation / Process
 ## Clone the repository:
 ```
 git clone https://github.com/YOUR_USERNAME/encrypted-password-manager.git
