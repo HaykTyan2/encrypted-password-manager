@@ -1,11 +1,11 @@
-encrypted-password-manager
+## encrypted-password-manager
 
 A Python-based encrypted password manager that securely stores and retrieves login credentials using modern cryptographic techniques.
-
 This project was built as a learning exercise to understand password hashing, key derivation, encryption, and secure local data storage.
 
-What this project does
+--------------------------------------------------------------------------------------------------------
 
+## What this project does
 The program allows a user to manage passwords locally using a single master password.
 
 It allows the user to:
