@@ -119,7 +119,7 @@ Performs basic master password strength validation.
 
 --------------------------------------------------------------------------------------------------------
 
-## Installation / Process
+### Installation / Process
 
 ## Clone the repository:
 ```
