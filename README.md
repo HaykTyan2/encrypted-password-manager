@@ -32,7 +32,7 @@ All passwords are encrypted before being stored and are only decrypted in memory
 6. Encrypted passwords are stored in the database.
 7. On login, the master password is verified before allowing access.
 8. Decryption occurs only when the user chooses to view a specific entry.
-9. 
+
 --------------------------------------------------------------------------------------------------------
 
 Project structure
